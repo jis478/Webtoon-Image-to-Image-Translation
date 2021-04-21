@@ -10,7 +10,7 @@
 
 - **Exploring translation levels (True Beauty)**
 
-![Webtoon%20Image%20To%20Image%20Translation%20f5647584568d49b78fe498a74977c705.png](Webtoon%20Image%20To%20Image%20Translation%20f5647584568d49b78fe498a74977c705.png)
+![Webtoon%20Image%20To%20Image%20Translation%20f5647584568d49b78fe498a74977c705/exp.png](Webtoon%20Image%20To%20Image%20Translation%20f5647584568d49b78fe498a74977c705/exp.png)
 
 - **Exploring translation styles (True Beauty)**
 
